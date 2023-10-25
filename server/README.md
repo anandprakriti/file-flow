@@ -1,4 +1,2 @@
 # Server
-
-Server is written in Go programming language using gin library
-for documentaion of the code  [visit here](DOCS.md)
+The server is written in the Go programming language using the Gin library. For documentation of the code, please [visit here](DOCS.md).
